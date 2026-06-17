@@ -3,22 +3,28 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kskassociates1996-svg/ca-website-backend.git"
   },
+
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+
+  "type": "module",
+
   "bugs": {
     "url": "https://github.com/kskassociates1996-svg/ca-website-backend/issues"
   },
+
   "homepage": "https://github.com/kskassociates1996-svg/ca-website-backend#readme",
+
   "dependencies": {
     "cors": "^2.8.6",
     "dotenv": "^17.4.2",
